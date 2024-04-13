@@ -4,4 +4,4 @@ git clone <Link >
 git status
 git add .
 
-j
+git commit -m"nội dung lưu"
